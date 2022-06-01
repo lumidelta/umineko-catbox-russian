@@ -12,7 +12,7 @@ Besides me, the following people have *directly* contributed to this project:
 - [@silverwolf-waltz](//github.com/silverwolf-waltz), helping port over the translations for Hane and Saku.
 - [@Quplet](//github.com/quplet), providing help with porting some of the main episodes.
 - [LHCollider](https://www.youtube.com/lhcollider) for helping in testing.
-- OphidianLass, for being the brightest star that ever shone in my life. Rest in peace, my love.
+- My beloved heart, Tara (OphidianLass), for being the brightest star that ever shone in my life. Rest in peace, my love.
 
 Furthermore, this patch would be impossible without the resources and tools provided by the the following projects:
 
