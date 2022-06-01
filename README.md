@@ -1,8 +1,9 @@
-# Activity notice
 This project is permanently frozen.
 
 The game is fully translated, patched and playable. However, no further improvements will be made.
 No bugs will be fixed. No features will be added. Please fork the project if you would like to add any changes yourself.
+
+---
 
 # English patch for Umineko Catbox
 
@@ -69,10 +70,6 @@ If you want to play the game on your Nintendo Switch hardware, it will need [Atm
 If you don't have Atmosphère already, please see if it's compatible with your Switch model and install it if it is.
 Afterwards, [download](../../releases/latest/download/patch_atmos.zip) the Atmosphère version of the patch and copy it to the "atmosphere" folder on your SD card.
 The next time the game starts, it should be in English.
-
-## More questions?
-
-Use the [forums](../../discussions) to ask them and I'll try to answer as soon as I'm able to. If (and *only* if) you find a bug, please open an [issue](../../issues) instead.
 
 ## Developer documentation
 
