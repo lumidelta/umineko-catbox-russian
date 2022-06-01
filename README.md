@@ -1,3 +1,9 @@
+# Activity notice
+This project is permanently frozen.
+
+The game is fully translated, patched and playable. However, no further improvements will be made.
+No bugs will be fixed. No features will be added. Please fork the project if you would like to add any changes yourself.
+
 # English patch for Umineko Catbox
 
 This is an English patch for Umineko When They Cry: The Symphony of Catbox and Dreams, the console version
