@@ -8,7 +8,7 @@ This patch is meant to be used on the **actual console release of the game**. It
 ## Credits
 
 Besides me, the following people have *directly* contributed to this project:
-- My beloved heart, Tara (OphidianLass), who was the brightest star that ever shone in my life. Rest in peace, my love.
+- My beloved heart, Tara, who was the brightest star that ever shone in my life. Rest in peace, my love.
 - [@DoctorDiablo](//github.com/doctordiablo), translating the Witch Hunter's Interview Tape story.
 - [@silverwolf-waltz](//github.com/silverwolf-waltz), helping port over the translations for Hane and Saku.
 - [@Quplet](//github.com/quplet), providing help with porting some of the main episodes.
