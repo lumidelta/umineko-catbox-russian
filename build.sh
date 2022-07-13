@@ -1,7 +1,7 @@
 #!/bin/sh
 # Build requirements: Python 3, Ruby, zip
 set -e
-
+sudo rm -rf UminekoCatboxEnglish
 echo "=== Building romfs... ==="
 cd repack/rom-repack
 ruby kal_real.rb ../../script.rb ../../romfs ../../patch.rom ../../patch.snr 6 19 88
