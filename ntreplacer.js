@@ -45,7 +45,7 @@ const nametags = {
   'Okonogi': 'Оконоги',
   'Ootsuki': 'Ооцуки',
   'Sabakichi': 'Сабакичи',
-  'Erika': 'Ерика',
+  'Erika': 'Эрика',
   'Cornelia': 'Корнелия',
   'Dlanor': 'Дланор',
   'Gertrude': 'Гетртруда',
